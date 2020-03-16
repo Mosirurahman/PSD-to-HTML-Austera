@@ -609,6 +609,7 @@ input[type="submit"] {
   #banner {
     padding-top: 116px;
     padding-bottom: 50px;
+    margin: 0;
   }
 
   .banner-btn .boxed-btn {
