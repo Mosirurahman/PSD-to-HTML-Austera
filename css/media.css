@@ -1,0 +1,148 @@
+/* Extra small devices (portrait phones, less than 576px */
+@media (max-width:575px) {
+.navbar-light .navbar-toggler {
+	border-color: #fff;
+}
+.navbar-light .navbar-toggler i {
+    color: #fff;
+}    
+.navbar-nav {
+	background: #bcaaaa;
+}    
+.navbar-light .navbar-nav .nav-link {
+	text-align: center;
+} 
+.banner-text {
+    padding-top: 120px;
+    padding-bottom: 100px;    
+}    
+.banner-text p {
+    padding: 0;
+    padding-bottom: 30px;
+}   
+.about-text h2 {
+	text-align: center;
+	padding-top: 20px;
+}
+.about-text h4 {
+	text-align: center;
+}
+.video-icon {
+	padding: 85px 0;
+}
+.team-item {
+	margin-bottom: 40px;
+} 
+.team-button {
+	padding-top: 0;
+}
+.test-details p {
+	padding: 0;
+}
+.test-details h3 {
+	padding-top: 10px;
+    padding-bottom: 10px;
+}    
+.form-main h2 {
+	padding-top: 50px;
+    text-align: center
+} 
+.client-img {
+	text-align: center;
+}    
+    
+}
+
+/*  Small devices (landscape phones, 576px and up */
+@media (min-width: 576px) and (max-width: 767px) {
+    .navbar-light .navbar-toggler {
+	border-color: #fff;
+}
+.navbar-light .navbar-toggler i {
+    color: #fff;
+}    
+.navbar-nav {
+	background: #bcaaaa;
+}    
+.navbar-light .navbar-nav .nav-link {
+	text-align: center;
+} 
+.banner-text {
+    padding-top: 120px;
+    padding-bottom: 100px;    
+}    
+.banner-text p {
+    padding: 0;
+    padding-bottom: 30px;
+} 
+.about-text h2 {
+	text-align: center;
+	padding-top: 20px;
+}
+.about-text h4 {
+	text-align: center;
+}     
+.video-icon {
+	padding: 85px 0;
+}
+.service-item p {
+	padding: 0 125px;
+} 
+.team-item {
+	margin-bottom: 40px;
+}     
+.team-button {
+	padding-top: 0;
+}     
+.test-details p {
+	padding: 0;
+}
+.form-main h2 {
+	padding-top: 50px;
+    text-align: center
+}     
+    
+    
+}
+
+/* medium device */
+@media(min-width:768px) and (max-width:991px){
+    
+.navbar-light .navbar-toggler {
+	border-color: #fff;
+}
+.navbar-light .navbar-toggler i {
+    color: #fff;
+}    
+.navbar-nav {
+	background: #454b67;
+}    
+.navbar-light .navbar-nav .nav-link {
+	text-align: center;
+} 
+.banner-text {
+    padding-top: 120px;
+    padding-bottom: 100px;    
+}    
+.banner-text p {
+    padding: 0;
+    padding-bottom: 30px;
+}      
+.team-item {
+	margin-bottom: 40px;
+}  
+.test-details p {
+	padding: 0;
+} 
+.form-main h2 {
+	padding-top: 50px;
+} 
+.aaa {
+    text-align: center;
+}    
+.aaa img {
+    margin-left: -20px;
+}    
+    
+    
+}
